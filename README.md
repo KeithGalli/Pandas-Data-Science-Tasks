@@ -37,9 +37,21 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
 
-Check out the first video I did on Pandas: <br/>
-https://youtu.be/vmEHCJofslg 
+## YouTube Videos
+1. Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)
 
-Check out the videos I did on Matplotlib: <br/>
-https://youtu.be/DAQNHzOcO5A <br/>
-https://youtu.be/0P7QnIQDBJY
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vmEHCJofslg/0.jpg)](https://www.youtube.com/watch?v=vmEHCJofslg)
+
+> Click on the image to watch the YouTube video.
+
+
+2. Intro to Data Visualization in Python with Matplotlib! (line graph, bar chart, title, labels, size)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DAQNHzOcO5A/0.jpg)](https://www.youtube.com/watch?v=DAQNHzOcO5A)
+
+3. Python Plotting Tutorial w/ Matplotlib & Pandas (Line Graph, Histogram, Pie Chart, Box & Whiskers)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0P7QnIQDBJY/0.jpg)](https://www.youtube.com/watch?v=0P7QnIQDBJY)
+
+
+> Click on the image to watch the YouTube video.
