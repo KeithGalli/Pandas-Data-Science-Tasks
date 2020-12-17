@@ -38,14 +38,20 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Labeling our graphs
 
 ## YouTube Videos
-Check out the first video I did on Pandas: <br/>
+1. Check out the first video I did on Pandas: 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vmEHCJofslg/0.jpg)](https://www.youtube.com/watch?v=vmEHCJofslg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vmEHCJofslg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Click on the image to watch the [YouTube](https://www.youtube.com/embed/vmEHCJofslg) video.
 
-https://youtu.be/vmEHCJofslg 
 
-Check out the videos I did on Matplotlib: <br/>
-https://youtu.be/DAQNHzOcO5A <br/>
-https://youtu.be/0P7QnIQDBJY
+2. Check out the videos I did on Matplotlib:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DAQNHzOcO5A/0.jpg)](https://www.youtube.com/watch?v=DAQNHzOcO5A)
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0P7QnIQDBJY/0.jpg)](https://www.youtube.com/watch?v=0P7QnIQDBJY)
+
+
+> Click on the image to watch the [YouTube](https://www.youtube.com/embed/vmEHCJofslg) video.
+
