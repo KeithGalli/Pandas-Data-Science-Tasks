@@ -37,7 +37,13 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
 
+## YouTube Videos
 Check out the first video I did on Pandas: <br/>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vmEHCJofslg/0.jpg)](https://www.youtube.com/watch?v=vmEHCJofslg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vmEHCJofslg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 https://youtu.be/vmEHCJofslg 
 
 Check out the videos I did on Matplotlib: <br/>
