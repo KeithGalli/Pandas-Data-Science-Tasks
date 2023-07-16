@@ -14,4 +14,4 @@ Once we have cleaned up our data a bit, we move to the data analysis part. In th
 - What city sold the most product?
 - When is good time to advertise?
 - What products are most often sold together?
-- What products sold the most, and why?
+- What products are sold the most, and why?
